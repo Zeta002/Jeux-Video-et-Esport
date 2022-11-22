@@ -1,2 +1,2 @@
-# Jeux Vidéo & E-sport
+# Jeux Vidéos, E-sport & Speedrun
 Site Web projet HTML
