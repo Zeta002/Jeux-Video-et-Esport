@@ -1,2 +1,2 @@
-# Jeux Vidéos, E-sport & Speedrun (JVES)
+# Jeux Vidéos, E-sport, Speedrun & TAS (JVESTAS)
 Site Web projet HTML
