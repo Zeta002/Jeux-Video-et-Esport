@@ -1,2 +1,2 @@
-# Jeux Vidéos, E-sport, Speedrun & TAS (JVESTAS)
-Site Web projet HTML
+# Jeux Vidéos, E-sport, Speedrun & Tool Assisted Speedrun (JVESTAS)
+Site Web projet scolaire
